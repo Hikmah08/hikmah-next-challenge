@@ -1,0 +1,38 @@
+body{
+    background-image: url("/Home-decor/home-images/hero.jpg");
+    opacity: 0.7;
+    max-height: 100vh;
+}
+nav{
+    padding: 3% 5%;
+}
+a.nav-link{
+    font-size: 1.2rem;
+    line-height: 1.5;
+    text-decoration: none;
+    color: white;
+}
+.nav-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.home-text{
+    text-align: center;
+    margin-top: 7%;
+    color: white;
+}
+h1.home-text{
+    font-size: 5rem;
+    font-weight:700 ;
+    padding-top: 2%;
+    color: white;
+}
+p.home-text{
+    line-height: 1.5;
+    font-size: 1.5rem;
+}
+.btn{
+    margin-top: 2%;
+    margin-left: 45%;
+}
