@@ -33,12 +33,7 @@ img {
   width: 70%;
   height: 220px;
 }
-.sepia{
-  filter: sepia(100%);
-}
-.saturate{
-  filter: saturate(5);
-}
+
 @media (max-width:700px) {
     .container{
         margin-left: auto;
